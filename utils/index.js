@@ -123,9 +123,9 @@ export function resolveSidebarItems (page, route, site, localePath) {
   if (!sidebarConfig) {
     return []
   } else {
-    const { base, config } = resolveMatchingConfig(route, sidebarConfig)
+    const { config } = resolveMatchingConfig(route, sidebarConfig)
     return config
-      ? config.map(item => resolveItem(item, pages, base))
+      ? config.map(item => resolveItem(item, pages, 'resume'))
       : []
   }
 }

@@ -17,7 +17,7 @@ export default {
             isActive($route, item.basePath + "#" + c.slug)
           )
         : selfActive;
-    const link = renderLink(h, item.path + '/resume', item.title || item.path, active);
+    const link = renderLink(h, item.path, item.title || item.path, active);
     const configDepth =
       $page.frontmatter.sidebarDepth != null
         ? $page.frontmatter.sidebarDepth
