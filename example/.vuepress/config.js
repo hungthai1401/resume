@@ -2,7 +2,7 @@ module.exports = {
   dest: 'example/dist',
   theme: 'resume',
   title: 'Thai Nguyen Hung Resume',
-  base: '.',
+  base: '/resume/',
   themeConfig: {
     sidebar: [
       {
