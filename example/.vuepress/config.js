@@ -1,8 +1,8 @@
 module.exports = {
   dest: 'example/dist',
   theme: 'resume',
-  title: 'Thai Nguyen Hung Resume',
-  description: 'Thai Nguyen Hung Resume',
+  title: 'Thai Nguyen Hung - Resume',
+  description: 'Thai Nguyen Hung - Resume',
   base: '/resume/',
   head: [
     ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png"}],
