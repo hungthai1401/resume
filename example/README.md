@@ -22,6 +22,14 @@ Techical support at RED SUN SYNTHESIS PTE LTD <span class="right">2016.02 - 2016
 
 ## PROJECTS
 
+### <a href="https://github.com/hungthai1401/til">Today I learned</a><span class="right">2021.09 - Present</span>
+
+- Description: Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.
+- Role: Owner
+- Technologies：**NodeJs 16.7.0**
+
+---
+
 ### Vaccine remind<span class="right">2021.04 - 2021.07</span>
 
 - Description: Managing the vaccines, injections and send push notifications to remind injection schedule
