@@ -16,14 +16,30 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ## WORK EXPERIENCE
 
-Teach Lead at FPT Telecom Joint Stock Company <span class="right">2022.03 - Present</span><br>
+Senior PHP SE at Golden Gate Group <span class="right">2023.03 - Present</span><br>
+Teach Lead at FPT Telecom Joint Stock Company <span class="right">2022.03 - 2023.03</span><br>
 Senior PHP SE at VTI Joint Stock Company <span class="right">2020.04 - 2022.02</span><br>
 Team Leader at Viet Nhat General Joint Stock Company (VINICORP)<span class="right">2017.02 - 2020.03</span><br>
 Technical support at RED SUN SYNTHESIS PTE LTD <span class="right">2016.02 - 2016.08</span><br>
 
 ## PROJECTS
 
-### E-commerce Platform<span class="right">2022.03 - Present</span>
+### E-commerce Module<span class="right">2023.03 - Present</span>
+
+- Description: Build a e-commerce module for Golden SpoonS Supper App
+- Role: Senior Software Engineer
+- Technologies：**PHP 8.1 (Laravel 9.x), MariaDB, RabbitMQ, VueJS, Redis, Gitlab**
+- Team size: 18 (1 PM, 1 BA, 5 BE, 2 Tester)
+- Responsibilities:
+  - Solution architecture
+  - Design micro service architecture, database per service
+  - Patch packages for business
+  - Write code and unit test for the features
+  - CI/CD
+
+---
+
+### E-commerce Platform<span class="right">2022.03 - 2023.03</span>
 
 - Description: Build a e-commerce platform for FPT Telecom
 - Role: Tech Lead
@@ -78,7 +94,7 @@ Technical support at RED SUN SYNTHESIS PTE LTD <span class="right">2016.02 - 201
 ### Company reviews<span class="right">2020.04 - 2022.02</span>
 
 - Description: User can see the company reviews of salary, woman, ... and write the reviews
-- Role: Senior Developer
+- Role: Senior Software Engineer
 - Technologies：**PHP 7.4 (Laravel 6.x), MySQL 5.6 (AWS RDS), Elasticsearch (AWS Elasticsearch), Redis (AWS Elasticcache), Varnish, AWS ECS, AWS EC2, Jenkin**
 - Team size: 8 (1 PM, 5 Dev, 2 Tester)
 - Responsibilities:
@@ -220,18 +236,80 @@ Technical support at RED SUN SYNTHESIS PTE LTD <span class="right">2016.02 - 201
 
 ## OPEN-SOURCES AND CONTRIBUTOR
 
+### <a href="https://github.com/laravel/framework">Laravel Framework</a><span class="right">2023.06 - Present</span>
+
+- Description: The Laravel Framework
+- Role: Contributor
+- Contribution:
+  - <a href="https://github.com/dobromir-hristov/vuelidate-error-extractor/pull/37">Error when running `php artisan view:cache` command in Laravel 9.35</a>
+  - <a href="https://github.com/laravel/framework/pull/47320">Remove useless else and elseif statements</a>
+  - <a href="https://github.com/laravel/framework/pull/47343">Support drop stored procedures in `migrate:fresh` command</a>
+  - <a href="https://github.com/laravel/framework/pull/47438">Incorrect comment in `PredisConnector` and `PhpRedisConnector`</a>
+  - <a href="https://github.com/laravel/framework/pull/47442">Allow custom email_verified_at column</a>
+  - <a href="https://github.com/laravel/framework/pull/47473">Remove inconsistent return type of `via` method</a>
+  - <a href="https://github.com/laravel/framework/pull/47519">Reindex appends attributes</a>
+  - <a href="https://github.com/laravel/docs/pull/8874">Fix typo in provider</a>
+  - <a href="https://github.com/laravel/framework/pull/47668">Timestamp validation</a>
+  - <a href="https://github.com/laravel/framework/pull/47775">Typo type of data</a>
+  - <a href="https://github.com/laravel/framework/pull/47817">Remove unused variable in `VendorPublishCommand`</a>
+  - <a href="https://github.com/laravel/docs/pull/8919">`Str::wrap` usage</a>
+  - <a href="https://github.com/laravel/sanctum/pull/462">Add deprecated annotation in `MissingScopeException`</a>
+  - <a href="https://github.com/laravel/framework/pull/48105">Skip convert empty string to null test</a>
+
+---
+
+### <a href="https://github.com/tpetry/laravel-mysql-explain">Laravel MySQL Explains For Humans</a><span class="right">2023.07</span>
+
+- Description: Get MySQL EXPLAIN plans that are understandable for humans
+- Role: Contributor
+- Contribution:
+  - <a href="https://github.com/tpetry/laravel-mysql-explain/pull/6">DateTime binding</a>
+
+---
+
+### <a href="https://github.com/bradietilley/laravel-rules">Laravel Rules</a><span class="right">2023.06</span>
+
+- Description: Object Oriented Rules for Laravel
+- Role: Contributor
+- Contribution:
+  - <a href="https://github.com/bradietilley/laravel-rules/pull/4">Reusable rule</a>
+  - <a href="https://github.com/bradietilley/laravel-rules/pull/6">`Macroable` usage</a>
+
+---
+
+### <a href="https://github.com/php-strictus/strictus">Strictus</a><span class="right">2023.06</span>
+
+- Description: Strict Typing on inline variables for PHP
+- Role: Contributor
+- Contribution:
+  - <a href="https://github.com/php-strictus/strictus/pull/12">Enum support</a>
+  - <a href="https://github.com/php-strictus/strictus/pull/15">Immutable</a>
+  - <a href="https://github.com/php-strictus/strictus/pull/20">Union types</a>
+
+---
+
+### <a href="https://github.com/tpetry/laravel-query-expressions">Laravel Query Expressions to replace DB::raw() calls</a><span class="right">2023.04</span>
+
+- Description: Laravel Query Expressions to replace DB::raw() calls
+- Role: Contributor
+- Contribution:
+  - <a href="https://github.com/tpetry/laravel-query-expressions/pull/3">Emulate MySQL `FIND_IN_SET`</a>
+
+---
+
+### <a href="https://github.com/square/laravel-hyrule">Laravel Hyrule</a><span class="right">2023.04</span>
+
+- Description: Object-oriented, composable, fluent API for writing validations in Laravel
+- Role: Contributor
+- Contribution:
+  - <a href="https://github.com/square/laravel-hyrule/pull/16">Laravel 10 Support</a>
+
+---
+
 ### <a href="https://github.com/hungthai1401/grumphp-pint-task">GrumPHP Laravel Pint task</a><span class="right">2022.11</span>
 
 - Description: Extend <a href="https://github.com/phpro/grumphp">GrumPHP</a> with a task that runs <a href="https://laravel.com/docs/9.x/pint">Laravel Pint</a> for Laravel projects
 - Role: Owner
-- Technologies：**>= PHP 8.0**
-
----
-
-### Command `php artisan view:cache` in Laravel 9.35<span class="right">2022.10</span>
-
-- Description: Solution for fixing an error from `php artisan view:cache` command since Laravel 9.35
-- Role: Contributor (<a href="https://github.com/laravel/framework/issues/44544#issuecomment-1274955356">#44544</a>)
 - Technologies：**>= PHP 8.0**
 
 ---
@@ -244,10 +322,12 @@ Technical support at RED SUN SYNTHESIS PTE LTD <span class="right">2016.02 - 201
 
 ---
 
-### DTO (Data Transfer Object)<span class="right">2021.04</span>
+### <a href="https://github.com/Eveio/dto">DTO</a><span class="right">2021.04</span>
 
 - Description: A simplistic, flexible Data Transfer Object library written in PHP
-- Role: Contributor (<a href="https://github.com/Eveio/dto/pull/5">#871</a>)
+- Role: Contributor
+- Contribution:
+  - <a href="https://github.com/Eveio/dto/pull/5">Allow directly accessing property</a>
 - Technologies: **PHP**
 
 ---
@@ -268,10 +348,12 @@ Technical support at RED SUN SYNTHESIS PTE LTD <span class="right">2016.02 - 201
 
 ---
 
-### Vuelidate Error Extractor<span class="right">2020.03</span>
+### <a href="https://github.com/dobromir-hristov/vuelidate-error-extractor">Vuelidate Error Extractor</a><span class="right">2020.03</span>
 
 - Description: Making error message display from <a href="https://vuelidate.js.org/">Vuelidate</a> a breeze
-- Role: Contributor (<a href="https://github.com/dobromir-hristov/vuelidate-error-extractor/pull/37">#37</a>)
+- Role: Contributor
+- Contribution:
+  - <a href="https://github.com/dobromir-hristov/vuelidate-error-extractor/pull/37">Add usage with Ant Design Vue</a>
 - Technologies：**VueJS**
 
 ---
@@ -284,10 +366,12 @@ Technical support at RED SUN SYNTHESIS PTE LTD <span class="right">2016.02 - 201
 
 ---
 
-### Laravel Modules<span class="right">2019.11</span>
+### <a href="https://github.com/nWidart/laravel-modules">Laravel Modules</a><span class="right">2019.11</span>
 
 - Description: Creating to manage the large Laravel app using modules
-- Role: Contributor (<a href="https://github.com/nWidart/laravel-modules/pull/871">#871</a>)
+- Role: Contributor
+- Contribution:
+  - <a href="https://github.com/nWidart/laravel-modules/pull/871">Replace controller namespace in provider stub</a>
 - Technologies：**PHP (Laravel)**
 
 ---
