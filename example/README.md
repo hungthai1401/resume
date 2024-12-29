@@ -16,91 +16,159 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ## WORK EXPERIENCE
 
-Senior PHP SE at Golden Gate Group <span class="right">2023.03 - Present</span><br>
-Teach Lead at FPT Telecom Joint Stock Company <span class="right">2022.03 - 2023.03</span><br>
-Senior PHP SE at VTI Joint Stock Company <span class="right">2020.04 - 2022.02</span><br>
-Team Leader at Viet Nhat General Joint Stock Company (VINICORP)<span class="right">2017.02 - 2020.03</span><br>
-Technical support at RED SUN SYNTHESIS PTE LTD <span class="right">2016.02 - 2016.08</span><br>
+**Senior Software Engineer** at **Golden Gate Group** <span class="right">2023.03 - Present</span><br>
+**Senior Software Engineer (Tech Lead in transition)** at **FPT Telecom** <span class="right">2022.03 - 2023.03</span><br>
+**Senior Software Engineer** at **VTI Joint Stock Company** <span class="right">2020.04 - 2022.02</span><br>
+**Software Engineer** at **Viet Nhat General Joint Stock Company (VINICORP)**<span class="right">2017.02 - 2020.03</span><br>
+**Technical support** at **RED SUN SYNTHESIS PTE LTD** <span class="right">2016.02 - 2016.08</span><br>
 
 ## PROJECTS
 
 ### E-commerce Module<span class="right">2023.03 - Present</span>
 
-- Description: Build a e-commerce module for Golden SpoonS Supper App
-- Role: Senior Software Engineer
-- Technologies：**PHP 8.1 (Laravel 9.x), MariaDB, RabbitMQ, VueJS, Redis, Gitlab**
-- Team size: 18 (1 PM, 1 BA, 5 BE, 2 Tester)
-- Responsibilities:
-  - Solution architecture
-  - Design micro service architecture, database per service
-  - Patch packages for business
-  - Write code and unit test for the features
-  - CI/CD
+- **Descriptions**: Developed an e-commerce module integrated into the Golden SpoonS Super App, enabling users to access Golden Gate products, place orders, make online payments, and use delivery services.
+- **Roles**: **Senior Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 8.1 (Laravel 10.x)
+  - **Database**: MariaDB, Redis
+  - **Frontend**: VueJS
+  - **Version Control**: Gitlab
+- **Team size**: Worked in a cross-functional team of 18 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - **Software Development**:
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Translated business needs into technical specifications and actionable tasks for the development team.
+    - Design and implement recommendation features for products and merchants.
+    - Design and implement promotion services.
+    - Design and implement flash sale services.
+    - Integrate with GGG's ecosystem and third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+    - Optimized system performance and scalability.
+  - **DevOps Contributions**:
+    - Set up system monitoring and logging solutions, including alert management systems for proactive issue detection.
+    - Develop tools to support deployment processes, including creating tags and deployment scripts.
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
+  - **Collaboration**:
+    - Worked closely with cross-functional teams to ensure smooth integration of backend, frontend, and infrastructure components.
 
 ---
 
 ### E-commerce Platform<span class="right">2022.03 - 2023.03</span>
 
-- Description: Build a e-commerce platform for FPT Telecom
-- Role: Tech Lead
-- Technologies：**PHP 8.1 (Laravel 9.x), PostgREST 9.0.0, RabbitMQ, VueJS, NuxtJS, Angular 11, Redis, Google Firebase, K8s, Rancher, Gitlab**
-- Team size: 18 (1 PM, 1 PO, 2 BA, 3 FE, 6 BE, 5 Tester)
+- **Description**: Developed an e-commerce for FPT Telecom, enabling users to access merchant products, place orders, make online payments, and use delivery services.
+- **Role**: **Senior Software Engineer (Tech Lead in transition)**
+- **Technologies**：
+  - **Backend**: PHP 8.1 (Laravel 9.x)
+  - **Database**: PostgREST, Redis
+  - **Frontend**: VueJS, NuxtJS, Angular 11
+  - **Message Queue**: RabbitMQ
+  - **Version Control**: Gitlab
+  - **Containerization & Orchestration**: Docker, Kubernetes, Rancher
+  - **Others**: Google Firebase
+- **Team size**: Worked in a cross-functional team of 18 members, including software engineers, business analysts, and QA testers, ...
 - Responsibilities:
-  - Solution architecture
-  - Design micro service architecture, database per service
-  - Patch packages for business
-  - Write code and unit test for the features
-  - CI/CD
+  - **Software Architecture**:
+    - Designed the micro service architecture, ensuring seamless integration with external services and high availability.
+    - Designed and implemented the API gateway, ensuring secure and efficient communication between services.
+    - Implemented and enforced coding standards and best practices, ensuring consistent code quality and reducing technical debt.
+    - Mentored junior developers, providing guidance on best practices, code reviews, and technical challenges.
+    - Design and implement UI kit for the frontend team.
+    - Designed and implemented the base structure for both frontend and backend, ensuring a scalable and maintainable architecture.
+  - **Software Development**:
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Translated business needs into technical specifications and actionable tasks for the development team.
+    - Integrate with FPT's ecosystem and third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+    - Optimized system performance and scalability.
+  - **DevOps Contributions**:
+    - Optimized CI/CD pipelines to ensure fast and reliable deployments.
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
+  - **Collaboration**:
+    - Worked closely with cross-functional teams to ensure smooth integration of backend, frontend, and infrastructure components.
 
 ---
 
 ### <a href="https://flyingchalks.com">Flyingchalks</a><span class="right">2021.08 - Present</span>
 
-- Description: Platform for exchange and international students worldwide
-- Role: Freelancer
-- Technologies：**PHP 7.4 (Laravel 5.1), MySQL 8.0, Redis, Bootstrap, VueJS, jQuery, Gitlab**
-- Responsibilities:
-  - Implement new features and maintain website
-  - Deployment
+- **Description**: Platform for exchange and international students worldwide
+- **Role**: **Senior Software Engineer**
+- **Technologies**：
+  - **Backend**: PHP 7.4 (Laravel 5.1)
+  - **Database**: MySQL 8.0, Redis
+  - **Frontend**: Bootstrap, VueJS, jQuery
+  - **Version Control**: Gitlab
+- **Responsibilities**:
+  - Implement new features, bug fixes and maintain website
+  - Responsible for deploying and maintaining applications in the production environment
+  - Monitored system performance, trace logs to identify and resolve issues
 
 ---
 
-### Vaccine remind<span class="right">2021.04 - 2021.07</span>
+### Vaccine reminder<span class="right">2021.04 - 2021.07</span>
 
-- Description: Managing the vaccines, injections and send push notifications to remind injection schedule
-- Role: Freelancer
-- Technologies：**PHP 7.4 (Laravel 8.x), MySQL 8.0, Redis, Google Firebase, AWS EC2, Dart (Flutter)**
-- Responsibilities:
-  - Design database, architecture
-  - Write code and unit test for the features
-  - Deployment
+- **Description**: Managing the vaccines, injections and send push notifications to remind injection schedule
+- **Role**: **Senior Software Engineer**
+- **Technologies**:
+  - **Backend**: PHP 7.4 (Laravel 8.x)
+  - **Database**: MySQL 8.0, Redis
+  - **Frontend**: Flutter
+  - **Others**: Google Firebase, AWS EC2
+- **Responsibilities**:
+  - Designed and implemented new features, bug fixes and maintain website
+  - Write clean, maintainable code and create unit tests for new features.
+  - Implement new features, bug fixes and maintain website
+  - Responsible for deploying and maintaining applications in the production environment
+  - Monitored system performance, trace logs to identify and resolve issues
 
 ---
 
 ### Recruitment recommendation<span class="right">2020.09 - 2022.02</span>
 
-- Description: Suggest the potential candidates for the companies and potential jobs for the users
-- Role: Senior Developer
-- Technologies：**PHP 7.4 (Laravel 7.x), MySQL 5.6 (AWS RDS), Elasticsearch (AWS Elasticsearch), Redis (AWS ElastiCache), AWS ECS, AWS EC2, Jenkin**
-- Team size: 5 (1 PM, 3 Dev, 1 Tester)
-- Responsibilities:
-  - Design database, solution to optimize performance
-  - Write code and unit test for the features
-  - Review code
-  - Deployment
+- **Description**: Suggest the potential candidates for the companies and potential jobs for the users
+- **Role**: **Senior Software Engineer**
+- **Technologies**:
+  - **Backend**: PHP 7.4 (Laravel 7.x)
+  - **Database**: MySQL 5.6 (AWS RDS), Elasticsearch (AWS Elasticsearch), Redis (AWS ElastiCache)
+  - **Cloud Services**: AWS ECS, AWS EC2, AWS s3
+  - **CI/CD**: Jenkins
+- **Team size**: Worked in a cross-functional team of 5 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - **Software Development**:
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Translated business needs into technical specifications and actionable tasks for the development team.
+    - Integrate with third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+    - Optimized system performance and scalability.
+    - Reviewed pull requests, collaborated with developers to discuss and resolve potential issues, and suggested improvements for optimal performance and scalability.
+  - **DevOps Contributions**:
+    - Optimized CI/CD pipelines to ensure fast and reliable deployments.
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
 
 ---
 
-### Company reviews<span class="right">2020.04 - 2022.02</span>
+### <a href="https://en-hyouban.com/">Company reviews platform</a><span class="right">2020.04 - 2022.02</span>
 
-- Description: User can see the company reviews of salary, woman, ... and write the reviews
-- Role: Senior Software Engineer
-- Technologies：**PHP 7.4 (Laravel 6.x), MySQL 5.6 (AWS RDS), Elasticsearch (AWS Elasticsearch), Redis (AWS Elasticcache), Varnish, AWS ECS, AWS EC2, Jenkin**
-- Team size: 8 (1 PM, 5 Dev, 2 Tester)
-- Responsibilities:
-  - Write code and unit test for the features
-  - Review code
-  - Deployment
+- **Description**: Developed a platform that user can see the company reviews of salary, woman, ... and write the reviews
+- **Role**: Senior Software Engineer
+- **Technologies**:
+  - **Backend**: PHP 7.4 (Laravel 6.x)
+  - **Database**: MySQL 5.6 (AWS RDS), Elasticsearch (AWS Elasticsearch), Redis (AWS Elasticcache)
+  - **Frontend**: Bootstrap, jQuery, PWA
+  - **Cloud Services**: AWS ECS, AWS EC2, AWS s3
+  - **CI/CD**: Jenkins
+  - **Caching**: Varnish
+- **Team size**: Worked in a cross-functional team of 8 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - **Software Development**:
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Translated business needs into technical specifications and actionable tasks for the development team.
+    - Integrate with third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+    - Optimized system performance and scalability.
+    - Reviewed pull requests, collaborated with developers to discuss and resolve potential issues, and suggested improvements for optimal performance and scalability.
+  - **DevOps Contributions**:
+    - Optimized CI/CD pipelines to ensure fast and reliable deployments.
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
 
 ---
 
