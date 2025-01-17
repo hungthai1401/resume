@@ -149,7 +149,7 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 ### <a href="https://en-hyouban.com/">Company reviews platform</a><span class="right">2020.04 - 2022.02</span>
 
 - **Description**: Developed a platform that user can see the company reviews of salary, woman, ... and write the reviews
-- **Role**: Senior Software Engineer
+- **Role**: **Senior Software Engineer**
 - **Technologies**:
   - **Backend**: PHP 7.4 (Laravel 6.x)
   - **Database**: MySQL 5.6 (AWS RDS), Elasticsearch (AWS Elasticsearch), Redis (AWS Elasticcache)
@@ -172,143 +172,198 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ---
 
-### <a href="https://github.com/hungthai1401/hd">Auto accessories</a><span class="right">2019.11 - 2020.01</span>
+### <a href="https://github.com/hungthai1401/hd">Vehicle Accessory Management System</a><span class="right">2019.11 - 2020.01</span>
 
-- Description: Manager auto accessories
-- Role: Freelancer
-- Technologies：**Dart (Flutter), PHP 7.4 (Laravel 6.x), MySQL 8.0**
-
----
-
-### Company Attendance<span class="right">2019.11 - 2020.03</span>
-
-- Description: Manage the employment's attendance by face recogination via iPad and send the report email to admin
-- Role: Team Leader
-- Technologies: **Node 11.x.x, AdonisJS, ReactJS, MySql 8.0, Redis, Docker, Vagrant**
-- Team size: 3 (2 Dev, 1 Tester)
-- Responsibilities:
-  - Build develop environment
-  - Design database, architecture
-  - Write code and unit test for the features
-  - Review code
-  - Optimize performance
+- **Description**: Developed a comprehensive system for managing devices installed in vehicles (cars and motorbikes)
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 7.4 (Laravel 6.x)
+  - **Frontend**: Flutter
+  - **Database**: MySQL 8.0, Redis
+- **Responsibilities**:
+  - **Software Development**:
+    - Collaborated with Stakeholder to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Integrate with third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+    - Successfully published the application on the Apple App Store and Google Play Store.
+  - **DevOps Contributions**:
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
 
 ---
 
-### Company Human Resource Management<span class="right">2019.11 - 2020.03</span>
+### Facial Recognition Attendance Management System<span class="right">2019.11 - 2020.03</span>
 
-- Description: Manage the employment's information
-- Role: Software Engineer
-- Technologies: **Node 11.x.x, ExpressJS, ReactJS, MySql 8.0, Redis, Docker, Vagrant**
-- Team size: 2 (1 Dev, 1 Tester)
-- Responsibilities:
-  - Build develop environment
-  - Design database, architecture
-  - Write code and unit test for the features
-  - Review code
-  - Optimize performance
-
----
-
-### Stamps management<span class="right">2019.11 - 2020.03</span>
-
-- Description: User can collect stamps by playing a game tracking the travel distance to get points
-- Role: Team Leader
-- Technologies: **PHP 7 (Laravel 5.7), VueJS, MySql 8.0, Redis, Google Map APIs, AWS EC2, Docker, Vagrant**
-- Team size: 2 (1 Dev, 1 Tester)
-- Responsibilities:
-  - Build develop environment
-  - Design database, architecture
-  - Write code and unit test for the features
-  - Suggest solutions for the customer
-  - Review code
-  - Optimize performance
+- **Description**: Developed a system for managing employee attendance using facial recognition technology, enabling accurate and contactless time tracking.
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 7.4 (Laravel 6.x)
+  - **Frontend**: Flutter
+  - **Database**: MySQL 8.0, Redis
+- **Team size**: Worked in a cross-functional team of 3 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - **Software Development**:
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Integrate with third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+  - **DevOps Contributions**:
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
 
 ---
 
-### <a href="https://portal-kyotamba.machiyell.jp/">Portal website for Kyotamba Town</a><span class="right">2019.11 - 2020.03</span>
+### Internal CRM Management System<span class="right">2019.11 - 2020.03</span>
 
-- Description: Introduce about the place and show content links and disaster in map
-- Role: Team Leader
-- Technologies: **NuxtJS, Leaflet, AWS EC2**
-- Team size: 2 (1 Dev, 1 Tester)
-- Responsibilities:
-  - Write code and unit test for the features
-  - Optimize performance
+- **Description**: Developed an internal CRM system to manage company resources, including departments, employees, and devices, ensuring efficient resource allocation and streamlined operations.
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 7.4 (Laravel 6.x)
+  - **Frontend**: VueJS
+  - **Database**: MySQL 8.0, Redis
+- **Team size**: Worked in a cross-functional team of 3 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - **Software Development**:
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Integrate with third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+  - **DevOps Contributions**:
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
+
+---
+
+### Webview Game - Stamp Collection by Location<span class="right">2019.11 - 2020.03</span>
+
+- **Description**: Developed a location-based webview game where users collect virtual stamps by visiting specific physical locations, encouraging exploration and engagement.
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 7.4 (Laravel 6.x)
+  - **Frontend**: VueJS
+  - **Database**: MySQL 8.0, Redis
+  - **Containerization & Orchestration**: Docker, Vagrant
+  - **Others**: Google Map APIs
+- **Team size**: Worked in a cross-functional team of 4 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - **Software Development**:
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Integrate with third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+  - **DevOps Contributions**:
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
+
+---
+
+### <a href="https://portal-kyotamba.machiyell.jp/">Kyotamba Portal Website</a><span class="right">2019.11 - 2020.03</span>
+
+- **Description**: Developed an official portal website for the Kyotamba region, providing residents and visitors with information on local news, events, and government services.
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Frontend**: NuxtJS, Leaflet
+  - **Database**: MySQL 5.7, Redis
+  - **Cloud Services**: AWS EC2
+- **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+  - Integrate with third-party services.
+  - Write clean, maintainable code and create unit tests for new features.
 
 ---
 
 ### Company Resource Management<span class="right">2019.03 - 2019.12</span>
 
-- Description: Building some features such as dynamic form, workflow, invoice, attendance, leave, marketing, ...
-- Role: Sub Team Leader
-- Technologies: **PHP 7 (Laravel 5.7), MySql 8.0, Redis, VueJS, AWS EC2, AWS Cloudfont, Docker, Vagrant**
-- Team size: 7 (1 PM, 4 Dev, 2 Tester)
-- Responsibilities:
-  - Write code and unit test for the features
-  - Review code
-  - Optimize performance
+- **Description**: Building some features such as dynamic form, workflow, invoice, attendance, leave, marketing, ...
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 7.4 (Laravel 5.7)
+  - **Frontend**: VueJS
+  - **Database**: MySQL 8.0, Redis
+  - **Containerization & Orchestration**: Docker, Vagrant
+  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
+- **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - **Software Development**:
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Integrate with third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+  - **DevOps Contributions**:
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
 
 ---
 
-### Building Dynamic Content<span class="right">2018.12 - 2019.12</span>
+### Dynamic Content Builder System<span class="right">2018.12 - 2019.12</span>
 
-- Description: Building dynamic content (file, weather, link, map, ...) to show in application with webview
-- Role: Software Engineer
-- Technologies: **PHP 7 (Laravel 5.7), MySql 8.0, Redis, JQuery, Bootstrap, Google Map APIs, AWS EC2, AWS Cloudfont, Vagrant**
-- Team size: 6 (1 PM, 4 Dev, 1 Tester)
-- Responsibilities:
-  - Write code and unit test for the features
-  - Review code
-  - Optimize performance
-  - Deployment
-
----
-
-### Tracking Japanese Elders<span class="right">2018.04 - 2018.12</span>
-
-- Description: Managing information the olders and tracking them
-- Role: Software Engineer
-- Technologies: **PHP 7 (Laravel 5.7), MySql 5.7, Redis, JQuery, Bootstrap, AWS EC2, AWS Cloudfont, Vagrant**
-- Team size: 5 (1 PM, 3 Dev, 1 Tester)
-- Responsibilities:
-  - Write code and unit test for the features
-  - Review code
-  - Deployment
+- **Description**: Developed a system for creating and managing dynamic contents (file, weather, link, map, ...) to show in application with webview
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 7.4 (Laravel 5.7)
+  - **Frontend**: HTML, Bootstrap, JQuery
+  - **Database**: MySQL 5.7, Redis
+  - **Containerization & Orchestration**: Docker, Vagrant
+  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
+- **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+  - Integrate with third-party services.
+  - Write clean, maintainable code and create unit tests for new features.
 
 ---
 
-### Translate Tool (used third-party APIS)<span class="right">2018.02 - 2018.08</span>
+### Elderly Management System<span class="right">2018.04 - 2018.12</span>
 
-- Description: Creating text need translate and make request, processed by workflow
-- Role: Software Engineer
-- Technologies: **PHP 7 (Laravel 5.6), MySql 5.7, Redis, JQuery, Bootstrap, AWS EC2, AWS Cloudfont, Vagrant**
-- Team size: 5 (1 PM, 3 Dev, 1 Tester)
-- Responsibilities:
-  - Split taskes and assign to the members
-  - Write code and unit test for the features
-  - Review code
-  - Deployment
+- **Description**: Developed a system to manage information and services for elderly individuals, focusing on activity tracking, and personalized care plans.
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 7.4 (Laravel 5.7)
+  - **Frontend**: HTML, Bootstrap, JQuery
+  - **Database**: MySQL 5.7, Redis
+  - **Containerization & Orchestration**: Vagrant
+  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
+- **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+  - Integrate with third-party services.
+  - Write clean, maintainable code and create unit tests for new features.
 
 ---
 
-### Building Dynamic Forms<span class="right">2017.08 - 2018.01</span>
+### Translation Management System<span class="right">2018.02 - 2018.08</span>
 
-- Description: Building dynamic forms and processed by workflow
-- Role: Software Engineer
-- Technologies: **PHP 7 (Laravel 5.5), MySql 5.7, Redis, JQuery, Bootstrap, AWS EC2, AWS Cloudfont, Vagrant**
-- Team size: 3 (1 PM, 1 Dev, 1 Tester)
-- Responsibilities:
-  - Write code and unit test for the features
-  - Deployment
+- **Description**: Built a system for managing text translations, where users create translation requests, and submissions are reviewed and approved through workflows.
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 7.4 (Laravel 5.7)
+  - **Frontend**: HTML, Bootstrap, JQuery
+  - **Database**: MySQL 5.7, Redis
+  - **Containerization & Orchestration**: Vagrant
+  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
+- **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+  - Integrate with third-party services.
+  - Write clean, maintainable code and create unit tests for new features.
+
+---
+
+### Dynamic Form Builder System<span class="right">2017.08 - 2018.01</span>
+
+- **Description**: Developed a system for creating and managing dynamic forms, allowing users to design custom forms with various field types and real-time validation.
+- **Role**: **Software Engineer**
+- **Technologies**
+  - **Backend**: PHP 7.4 (Laravel 5.5)
+  - **Frontend**: HTML, Bootstrap, JQuery
+  - **Database**: MySQL 5.7.0, Redis
+  - **Containerization & Orchestration**: Vagrant
+  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
+- **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+  - Integrate with third-party services.
+  - Write clean, maintainable code and create unit tests for new features.
 
 ## OPEN-SOURCES AND CONTRIBUTOR
 
 ### <a href="https://github.com/laravel/framework">Laravel Framework</a><span class="right">2023.06 - Present</span>
 
-- Description: The Laravel Framework
-- Role: Contributor
-- Contribution:
+- **Description**: The Laravel Framework
+- **Role**: Contributor
+- **Contribution**:
   - <a href="https://github.com/dobromir-hristov/vuelidate-error-extractor/pull/37">Error when running `php artisan view:cache` command in Laravel 9.35</a>
   - <a href="https://github.com/laravel/framework/pull/47320">Remove useless else and elseif statements</a>
   - <a href="https://github.com/laravel/framework/pull/47343">Support drop stored procedures in `migrate:fresh` command</a>
@@ -328,18 +383,18 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ### <a href="https://github.com/tpetry/laravel-mysql-explain">Laravel MySQL Explains For Humans</a><span class="right">2023.07</span>
 
-- Description: Get MySQL EXPLAIN plans that are understandable for humans
-- Role: Contributor
-- Contribution:
+- **Description**: Get MySQL EXPLAIN plans that are understandable for humans
+- **Role**: Contributor
+- **Contribution**:
   - <a href="https://github.com/tpetry/laravel-mysql-explain/pull/6">DateTime binding</a>
 
 ---
 
 ### <a href="https://github.com/bradietilley/laravel-rules">Laravel Rules</a><span class="right">2023.06</span>
 
-- Description: Object Oriented Rules for Laravel
-- Role: Contributor
-- Contribution:
+- **Description**: Object Oriented Rules for Laravel
+- **Role**: Contributor
+- **Contribution**:
   - <a href="https://github.com/bradietilley/laravel-rules/pull/4">Reusable rule</a>
   - <a href="https://github.com/bradietilley/laravel-rules/pull/6">`Macroable` usage</a>
 
@@ -347,9 +402,9 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ### <a href="https://github.com/php-strictus/strictus">Strictus</a><span class="right">2023.06</span>
 
-- Description: Strict Typing on inline variables for PHP
-- Role: Contributor
-- Contribution:
+- **Description**: Strict Typing on inline variables for PHP
+- **Role**: Contributor
+- **Contribution**:
   - <a href="https://github.com/php-strictus/strictus/pull/12">Enum support</a>
   - <a href="https://github.com/php-strictus/strictus/pull/15">Immutable</a>
   - <a href="https://github.com/php-strictus/strictus/pull/20">Union types</a>
@@ -358,122 +413,118 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ### <a href="https://github.com/tpetry/laravel-query-expressions">Laravel Query Expressions to replace DB::raw() calls</a><span class="right">2023.04</span>
 
-- Description: Laravel Query Expressions to replace DB::raw() calls
-- Role: Contributor
-- Contribution:
+- **Description**: Laravel Query Expressions to replace DB::raw() calls
+- **Role**: Contributor
+- **Contribution**:
   - <a href="https://github.com/tpetry/laravel-query-expressions/pull/3">Emulate MySQL `FIND_IN_SET`</a>
 
 ---
 
 ### <a href="https://github.com/square/laravel-hyrule">Laravel Hyrule</a><span class="right">2023.04</span>
 
-- Description: Object-oriented, composable, fluent API for writing validations in Laravel
-- Role: Contributor
-- Contribution:
+- **Description**: Object-oriented, composable, fluent API for writing validations in Laravel
+- **Role**: Contributor
+- **Contribution**:
   - <a href="https://github.com/square/laravel-hyrule/pull/16">Laravel 10 Support</a>
 
 ---
 
 ### <a href="https://github.com/hungthai1401/grumphp-pint-task">GrumPHP Laravel Pint task</a><span class="right">2022.11</span>
 
-- Description: Extend <a href="https://github.com/phpro/grumphp">GrumPHP</a> with a task that runs <a href="https://laravel.com/docs/9.x/pint">Laravel Pint</a> for Laravel projects
-- Role: Owner
-- Technologies：**>= PHP 8.0**
+- **Description**: Extend <a href="https://github.com/phpro/grumphp">GrumPHP</a> with a task that runs <a href="https://laravel.com/docs/9.x/pint">Laravel Pint</a> for Laravel projects
+- **Role**: Owner
 
 ---
 
 ### <a href="https://github.com/hungthai1401/til">Today I learned</a><span class="right">2021.09</span>
 
-- Description: Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.
-- Role: Owner
-- Technologies：**NodeJs 16.7.0**
+- **Description**: Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.
+- **Role**: Owner
 
 ---
 
 ### <a href="https://github.com/Eveio/dto">DTO</a><span class="right">2021.04</span>
 
-- Description: A simplistic, flexible Data Transfer Object library written in PHP
-- Role: Contributor
-- Contribution:
+- **Description**: A simplistic, flexible Data Transfer Object library written in PHP
+- **Role**: Contributor
+- **Contribution**:
   - <a href="https://github.com/Eveio/dto/pull/5">Allow directly accessing property</a>
-- Technologies: **PHP**
 
 ---
 
 ### <a href="https://github.com/hungthai1401/laravel-hmvc">Laravel HMVC</a><span class="right">2020.05 - 2020.07</span>
 
-- Description: Similar to Laravel Modules, creating to manage the large Laravel app using modules
-- Role: Owner
-- Technologies：**PHP (Laravel), Git**
+- **Description**: Similar to Laravel Modules, creating to manage the large Laravel app using modules
+- **Role**: Owner
 
 ---
 
 ### <a href="https://github.com/hungthai1401/laravel-pre-commit">Laravel Pre Commit</a><span class="right">2020.05</span>
 
-- Description: Allows you to check coding standard & code syntax with Git pre-commit hook
-- Role: Owner
-- Technologies：**PHP (Laravel), Git**
+- **Description**: Allows you to check coding standard & code syntax with Git pre-commit hook
+- **Role**: Owner
 
 ---
 
 ### <a href="https://github.com/dobromir-hristov/vuelidate-error-extractor">Vuelidate Error Extractor</a><span class="right">2020.03</span>
 
-- Description: Making error message display from <a href="https://vuelidate.js.org/">Vuelidate</a> a breeze
-- Role: Contributor
-- Contribution:
+- **Description**: Making error message display from <a href="https://vuelidate.js.org/">Vuelidate</a> a breeze
+- **Role**: Contributor
+- **Contribution**:
   - <a href="https://github.com/dobromir-hristov/vuelidate-error-extractor/pull/37">Add usage with Ant Design Vue</a>
-- Technologies：**VueJS**
 
 ---
 
 ### <a href="https://github.com/hungthai1401/laravel-application-version">Laravel Application Version</a><span class="right">2020.01</span>
 
-- Description: Allows you to find application version in Google Play store by package name or Apple App Store by bundle id
-- Role: Owner
-- Technologies：**PHP (Laravel)**
+- **Description**: Allows you to find application version in Google Play store by package name or Apple App Store by bundle id
+- **Role**: Owner
 
 ---
 
 ### <a href="https://github.com/nWidart/laravel-modules">Laravel Modules</a><span class="right">2019.11</span>
 
-- Description: Creating to manage the large Laravel app using modules
-- Role: Contributor
-- Contribution:
+- **Description**: Creating to manage the large Laravel app using modules
+- **Role**: Contributor
+- **Contribution**:
   - <a href="https://github.com/nWidart/laravel-modules/pull/871">Replace controller namespace in provider stub</a>
-- Technologies：**PHP (Laravel)**
 
 ---
 
 ### <a href="https://github.com/hungthai1401/laravel-sql-logger">Laravel SQL Logger</a><span class="right">2019.08 - 2019.11</span>
 
-- Description: Allows you to log SQL queries (and slow SQL queries) to log file in Laravel framework
-- Role: Owner
-- Technologies：**PHP (Laravel)**
+- **Description**: Allows you to log SQL queries (and slow SQL queries) to log file in Laravel framework
+- **Role**: Owner
 
 ---
 
 ### <a href="https://github.com/hungthai1401/laravel-cors">Laravel CORS</a><span class="right">2019.09</span>
 
-- Description: Allows you to send Cross-Origin Resource Sharing headers with Laravel middleware
-- Role: Owner
-- Technologies：**PHP (Laravel)**
+- **Description**: Allows you to send Cross-Origin Resource Sharing headers with Laravel middleware
+- **Role**: Owner
 
 ---
 
 ## SKILLS
 
-- PHP: Constructed several applications, especially with Laravel, Lumen, Cake frameworks
-- Javascript: Constructed several applications, especially with Vue, Nuxt, ExpressJS, AdonisJS
-- Dart: Self-taught. Constructed several applications with Flutter
-- Docker, Vagrant: Self-taught. Constructed the development environment
+- PHP: Advanced - Extensive experience with Laravel framework, proficient in building backend systems and APIs.
+- JavaScript (Vue.js): Advanced - Strong skills in creating interactive, responsive frontend applications using Vue.js.
+- Database (MySQL): Intermediate - Well-versed in designing and optimizing relational databases, handling complex queries and data models.
+- Docker/Kubernetes: Intermediate - Proficient in containerizing applications and managing deployments with Kubernetes.
+- CI/CD Pipelines: Intermediate - Experienced in designing and implementing CI/CD pipelines using Jenkins to automate testing, building, and deployment processes.
+- Testing Integration: Intermediate - Integrated unit, integration, and end-to-end tests into CI/CD pipelines to ensure high-quality code with every release.
+- Version Control: Advanced - Strong command of Git for version control, branching, and merging workflows to manage project code efficiently.
 
 ## LANGUAGES
 
-- English: Ability to read and understand the documents and communication
+- Reading & Writing: Proficient in reading books and technical documentation in English, as well as writing technical content and reports.
+- Listening & Speaking: Continuously learning to improve communication, listening, and speaking skills to enhance interaction in professional environments.
+- Self-Improvement: Actively engage in activities such as listening to podcasts, watching videos, and participating in conversations to further develop English proficiency.
 
 ## SELF-EVALUATION
 
-- Responsible with work
-- Self-study
-- Teamwork
-- Contributing for the open-source community
+- Disciplined: Maintain strong personal discipline in personal development, managing time, meeting deadlines, and adhering to best practices in all aspects of work.
+- Responsible with work: Always take full ownership of tasks and ensure they are completed with high quality and on time.
+- Self-study: Continuously improve skills through self-learning and staying updated with the latest technologies and industry trends.
+- Teamwork: Collaborate effectively with team members, offering support and guidance when needed to achieve common goals.
+- Contributing to the open-source community: Actively contribute to open-source projects, sharing knowledge and helping others grow.
