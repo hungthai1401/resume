@@ -16,7 +16,7 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ## WORK EXPERIENCE
 
-**Senior Software Engineer** at **Golden Gate Group** <span class="right">2023.03 - Present</span><br>
+**Senior Software Engineer (Team Leader)** at **Golden Gate Group** <span class="right">2023.03 - Present</span><br>
 **Senior Software Engineer (Tech Lead in transition)** at **FPT Telecom** <span class="right">2022.03 - 2023.03</span><br>
 **Senior Software Engineer** at **VTI Joint Stock Company** <span class="right">2020.04 - 2022.02</span><br>
 **Software Engineer** at **Viet Nhat General Joint Stock Company (VINICORP)**<span class="right">2017.02 - 2020.03</span><br>
@@ -24,10 +24,61 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ## PROJECTS
 
+### Technical Mentorship<span class="right">2024.05 - Present</span>
+
+- **Descriptions**: Actively mentor a group of peers, providing guidance on technical topics and best practices to enhance their skills and knowledge.
+- **Responsibilities**:
+  - Conducted two mentoring sessions weekly, focusing on predefined topics tailored to the group’s needs and interests.
+  - Coordinated with mentees to identify topics of interest and tailor sessions accordingly.
+  - Encouraged collaboration among the group to build a strong community of learning and support.
+  - Prepared and delivered content on topics such as system design, coding standards, performance optimization, and emerging technologies.
+  - Provided hands-on guidance through live coding sessions, practical exercises, and real-world examples to solidify understanding.
+  - Offered personalized support to mentees, addressing specific challenges and guiding their growth through constructive feedback.
+  - Fostered a learning environment encouraging questions, discussions, and knowledge sharing.
+  - Empowered mentees to apply learned concepts effectively in their own projects and professional development.
+
+---
+
+### Voucher Module<span class="right">2024.05 - Present</span>
+
+- **Descriptions**: Developed an internal system to integrate third-party voucher services, enabling seamless application and redemption of vouchers within the company's ecosystem.
+- **Roles**: **Senior Software Engineer (Team Leader)**
+- **Technologies**
+  - **Backend**: PHP 8.3 (Laravel 10.x)
+  - **Database**: MariaDB, Redis
+  - **Containerization & Orchestration**: Docker, Kubernetes, Rancher
+  - **CI/CD**: Jenkins, ArgoCD, Helm
+  - **Version Control**: Gitlab
+  - **Container Repository**: Harbor
+- **Team size**: Worked in a cross-functional team of 5 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - **Team Leader**
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Translated business needs into technical specifications and actionable tasks for the development team.
+    - Delegated tasks effectively based on team members' strengths and skill sets, while ensuring balanced workloads and timely delivery.
+    - Conducted regular code reviews to maintain coding standards, improve code quality, and provide constructive feedback to team members.
+    - Assisted team members in resolving technical challenges and provided guidance on complex tasks.
+  - **Software Development**:
+    - Designed and implemented APIs to communicate with third-party voucher providers for validation and redemption.
+    - Designed a user-friendly interface for internal teams to monitor voucher activity and resolve issues.
+    - Coordinated with third-party providers to align integration requirements and ensure smooth interoperability.
+    - Integrate with GGG's ecosystem and third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+    - Optimized system performance and scalability.
+  - **DevOps Contributions**:
+    - Implemented CI/CD Pipelines: Designed and deployed a CI/CD pipeline for the team using Jenkins, automating the processes of building, testing, and deploying code.
+    - Conducted training sessions to help team members understand and effectively use the CI/CD pipeline, improving collaboration and productivity.
+    - Set up system monitoring and logging solutions, including alert management systems for proactive issue detection.
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
+  - **Collaboration**:
+    - Worked closely with cross-functional teams to ensure smooth integration of backend, frontend, and infrastructure components.
+
+---
+
 ### E-commerce Module<span class="right">2023.03 - Present</span>
 
 - **Descriptions**: Developed an e-commerce module integrated into the Golden SpoonS Super App, enabling users to access Golden Gate products, place orders, make online payments, and use delivery services.
-- **Roles**: **Senior Software Engineer**
+- **Roles**: **Senior Software Engineer (Team Leader)**
 - **Technologies**
   - **Backend**: PHP 8.1 (Laravel 10.x)
   - **Database**: MariaDB, Redis
@@ -35,13 +86,17 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
   - **Version Control**: Gitlab
 - **Team size**: Worked in a cross-functional team of 18 members, including software engineers, business analysts, and QA testers, ...
 - **Responsibilities**:
-  - **Software Development**:
+  - **Team Leader**
     - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
     - Translated business needs into technical specifications and actionable tasks for the development team.
-    - Design and implement recommendation features for products and merchants.
-    - Design and implement promotion services.
-    - Design and implement flash sale services.
-    - Integrate with GGG's ecosystem and third-party services.
+    - Delegated tasks effectively based on team members' strengths and skill sets, while ensuring balanced workloads and timely delivery.
+    - Conducted regular code reviews to maintain coding standards, improve code quality, and provide constructive feedback to team members.
+    - Assisted team members in resolving technical challenges and provided guidance on complex tasks.
+  - **Software Development**:
+    - Designed and implement recommendation features for products and merchants.
+    - Designed and implement promotion services.
+    - Designed and implement flash sale services.
+    - Integrated with GGG's ecosystem and third-party services.
     - Write clean, maintainable code and create unit tests for new features.
     - Optimized system performance and scalability.
   - **DevOps Contributions**:
@@ -90,8 +145,8 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ### <a href="https://flyingchalks.com">Flyingchalks</a><span class="right">2021.08 - Present</span>
 
-- **Description**: Platform for exchange and international students worldwide
-- **Role**: **Senior Software Engineer**
+- **Description**: Developed a platform for exchange and international students worldwide
+- **Role**: **Software Engineer**
 - **Technologies**：
   - **Backend**: PHP 7.4 (Laravel 5.1)
   - **Database**: MySQL 8.0, Redis
@@ -106,8 +161,8 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ### Vaccine reminder<span class="right">2021.04 - 2021.07</span>
 
-- **Description**: Managing the vaccines, injections and send push notifications to remind injection schedule
-- **Role**: **Senior Software Engineer**
+- **Description**: Developed a system for managing vaccines, injections and send notifications to user for reminding injection schedule
+- **Role**: **Software Engineer**
 - **Technologies**:
   - **Backend**: PHP 7.4 (Laravel 8.x)
   - **Database**: MySQL 8.0, Redis
@@ -122,9 +177,9 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ---
 
-### Recruitment recommendation<span class="right">2020.09 - 2022.02</span>
+### Recruitment recommendation platform<span class="right">2020.09 - 2022.02</span>
 
-- **Description**: Suggest the potential candidates for the companies and potential jobs for the users
+- **Description**: Developed a platform provides personalized recommendations for highly-rated companies based on user preferences and qualifications also provide recommendations candidates for companies.
 - **Role**: **Senior Software Engineer**
 - **Technologies**:
   - **Backend**: PHP 7.4 (Laravel 7.x)
@@ -148,7 +203,7 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ### <a href="https://en-hyouban.com/">Company reviews platform</a><span class="right">2020.04 - 2022.02</span>
 
-- **Description**: Developed a platform that user can see the company reviews of salary, woman, ... and write the reviews
+- **Description**: Developed a web platform where users can browse and view reviews of various companies, helping them make informed decisions.
 - **Role**: **Senior Software Engineer**
 - **Technologies**:
   - **Backend**: PHP 7.4 (Laravel 6.x)
@@ -359,25 +414,19 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ## OPEN-SOURCES AND CONTRIBUTOR
 
+### <a href="https://github.com/laravel/framework">Laravel Framework</a><span class="right">2024.11 - Present</span>
+
+- **Description**: The Tempest Framework
+- **Role**: Contributor
+- **Contribution**: 
+  - <a href="https://github.com/tempestphp/tempest-framework/pulls?q=is%3Apr+author%3Ahungthai1401+">View all</a>
+
 ### <a href="https://github.com/laravel/framework">Laravel Framework</a><span class="right">2023.06 - Present</span>
 
 - **Description**: The Laravel Framework
 - **Role**: Contributor
-- **Contribution**:
-  - <a href="https://github.com/dobromir-hristov/vuelidate-error-extractor/pull/37">Error when running `php artisan view:cache` command in Laravel 9.35</a>
-  - <a href="https://github.com/laravel/framework/pull/47320">Remove useless else and elseif statements</a>
-  - <a href="https://github.com/laravel/framework/pull/47343">Support drop stored procedures in `migrate:fresh` command</a>
-  - <a href="https://github.com/laravel/framework/pull/47438">Incorrect comment in `PredisConnector` and `PhpRedisConnector`</a>
-  - <a href="https://github.com/laravel/framework/pull/47442">Allow custom email_verified_at column</a>
-  - <a href="https://github.com/laravel/framework/pull/47473">Remove inconsistent return type of `via` method</a>
-  - <a href="https://github.com/laravel/framework/pull/47519">Reindex appends attributes</a>
-  - <a href="https://github.com/laravel/docs/pull/8874">Fix typo in provider</a>
-  - <a href="https://github.com/laravel/framework/pull/47668">Timestamp validation</a>
-  - <a href="https://github.com/laravel/framework/pull/47775">Typo type of data</a>
-  - <a href="https://github.com/laravel/framework/pull/47817">Remove unused variable in `VendorPublishCommand`</a>
-  - <a href="https://github.com/laravel/docs/pull/8919">`Str::wrap` usage</a>
-  - <a href="https://github.com/laravel/sanctum/pull/462">Add deprecated annotation in `MissingScopeException`</a>
-  - <a href="https://github.com/laravel/framework/pull/48105">Skip convert empty string to null test</a>
+- **Contribution**: 
+  - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Ahungthai1401+">View all</a>
 
 ---
 
@@ -436,13 +485,6 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ---
 
-### <a href="https://github.com/hungthai1401/til">Today I learned</a><span class="right">2021.09</span>
-
-- **Description**: Things I've learned and/or things I want to remember. Notes, links, advice, example code, etc.
-- **Role**: Owner
-
----
-
 ### <a href="https://github.com/Eveio/dto">DTO</a><span class="right">2021.04</span>
 
 - **Description**: A simplistic, flexible Data Transfer Object library written in PHP
@@ -488,6 +530,8 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 - **Role**: Contributor
 - **Contribution**:
   - <a href="https://github.com/nWidart/laravel-modules/pull/871">Replace controller namespace in provider stub</a>
+  - <a href="https://github.com/nWidart/laravel-modules/pull/1662">New rule stub</a>
+  - <a href="https://github.com/nWidart/laravel-modules/pull/1664">Implicit rule</a>
 
 ---
 
@@ -507,24 +551,33 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ## SKILLS
 
-- PHP: Advanced - Extensive experience with Laravel framework, proficient in building backend systems and APIs.
-- JavaScript (Vue.js): Advanced - Strong skills in creating interactive, responsive frontend applications using Vue.js.
-- Database (MySQL): Intermediate - Well-versed in designing and optimizing relational databases, handling complex queries and data models.
-- Docker/Kubernetes: Intermediate - Proficient in containerizing applications and managing deployments with Kubernetes.
-- CI/CD Pipelines: Intermediate - Experienced in designing and implementing CI/CD pipelines using Jenkins to automate testing, building, and deployment processes.
-- Testing Integration: Intermediate - Integrated unit, integration, and end-to-end tests into CI/CD pipelines to ensure high-quality code with every release.
-- Version Control: Advanced - Strong command of Git for version control, branching, and merging workflows to manage project code efficiently.
-
-## LANGUAGES
-
-- Reading & Writing: Proficient in reading books and technical documentation in English, as well as writing technical content and reports.
-- Listening & Speaking: Continuously learning to improve communication, listening, and speaking skills to enhance interaction in professional environments.
-- Self-Improvement: Actively engage in activities such as listening to podcasts, watching videos, and participating in conversations to further develop English proficiency.
+- **PHP**: Advanced - Extensive experience with Laravel framework, proficient in building backend systems and APIs.
+- **JavaScript (Vue.js)**: Advanced - Strong skills in creating interactive, responsive frontend applications using Vue.js.
+- **Database (MySQL)**: Intermediate - Well-versed in designing and optimizing relational databases, handling complex queries and data models.
+- **Docker/Kubernetes**: Intermediate - Proficient in containerizing applications and managing deployments with Kubernetes.
+- **CI/CD Pipelines**: Intermediate - Experienced in designing and implementing CI/CD pipelines using Jenkins to automate testing, building, and deployment processes.
+- **Testing Integration**: Intermediate - Integrated unit, integration, and end-to-end tests into CI/CD pipelines to ensure high-quality code with every release.
+- **Version Control**: Advanced - Strong command of Git for version control, branching, and merging workflows to manage project code efficiently.
+- **English**:
+  - **Reading & Writing**: Proficient in reading books and technical documentation in English, as well as writing technical content and reports.
+  - **Listening & Speaking**:
+    - Continuously learning to improve communication, listening, and speaking skills to enhance interaction in professional environments.
+    - Actively engage in activities such as listening to podcasts, watching videos, and participating in conversations to further develop English proficiency.
 
 ## SELF-EVALUATION
 
-- Disciplined: Maintain strong personal discipline in personal development, managing time, meeting deadlines, and adhering to best practices in all aspects of work.
-- Responsible with work: Always take full ownership of tasks and ensure they are completed with high quality and on time.
-- Self-study: Continuously improve skills through self-learning and staying updated with the latest technologies and industry trends.
-- Teamwork: Collaborate effectively with team members, offering support and guidance when needed to achieve common goals.
-- Contributing to the open-source community: Actively contribute to open-source projects, sharing knowledge and helping others grow.
+- **Disciplined**: Maintain strong personal discipline in personal development, managing time, meeting deadlines, and adhering to best practices in all aspects of work.
+- **Responsible with work**: Always take full ownership of tasks and ensure they are completed with high quality and on time.
+- **Self-study**: Continuously improve skills through self-learning and staying updated with the latest technologies and industry trends.
+- **Teamwork**: Collaborate effectively with team members, offering support and guidance when needed to achieve common goals.
+- **Contributing to the open-source community**: Actively contribute to open-source projects, sharing knowledge and helping others grow.
+
+## HOBBIES
+
+- **Coding**: Enjoy coding and building side projects to explore new technologies, experiment with ideas, and enhance skills.
+- **Algorithmic problem-solving**: Engage in solving algorithmic problems on platforms like LeetCode and HackerRank to sharpen problem-solving skills and learn new programming languages.
+- **Taking notes**: Keep detailed notes on new technologies, coding techniques, and best practices to refer back to and share with others.
+- **Reading books**: Enjoy reading books on personal development, technology, and business to gain new knowledge and insights.
+- **Reading technical blogs**: Stay updated with the latest trends, tools, and techniques in software development by reading technical blogs and articles such as Medium, Dev.to, and Substack.
+- **Reading movies**: Relax by watching movies and TV series to unwind and enjoy different genres and stories and improve English listening skills.
+- **Listening to podcasts**: Stay informed on various topics, including technology, business, and personal development, through podcasts.
