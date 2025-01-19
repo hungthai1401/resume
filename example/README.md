@@ -26,7 +26,7 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ### Technical Mentorship<span class="right">2024.05 - Present</span>
 
-- **Descriptions**: Actively mentor a group of peers, providing guidance on technical topics and best practices to enhance their skills and knowledge.
+- **Description**: Actively mentor a group of peers, providing guidance on technical topics and best practices to enhance their skills and knowledge.
 - **Responsibilities**:
   - Conducted two mentoring sessions weekly, focusing on predefined topics tailored to the group’s needs and interests.
   - Coordinated with mentees to identify topics of interest and tailor sessions accordingly.
@@ -41,7 +41,7 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ### Voucher Module<span class="right">2024.05 - Present</span>
 
-- **Descriptions**: Developed an internal system to integrate third-party voucher services, enabling seamless application and redemption of vouchers within the company's ecosystem.
+- **Description**: Developed an internal system to integrate third-party voucher services, enabling seamless application and redemption of vouchers within the company's ecosystem.
 - **Roles**: **Senior Software Engineer (Team Leader)**
 - **Technologies**
   - **Backend**: PHP 8.3 (Laravel 10.x)
@@ -77,7 +77,7 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ### E-commerce Module<span class="right">2023.03 - Present</span>
 
-- **Descriptions**: Developed an e-commerce module integrated into the Golden SpoonS Super App, enabling users to access Golden Gate products, place orders, make online payments, and use delivery services.
+- **Description**: Developed an e-commerce module integrated into the Golden SpoonS Super App, enabling users to access Golden Gate products, place orders, make online payments, and use delivery services.
 - **Roles**: **Senior Software Engineer (Team Leader)**
 - **Technologies**
   - **Backend**: PHP 8.1 (Laravel 10.x)
