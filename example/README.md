@@ -414,19 +414,17 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ## OPEN-SOURCES AND CONTRIBUTOR
 
-### <a href="https://github.com/laravel/framework">Laravel Framework</a><span class="right">2024.11 - Present</span>
+### <a href="https://tempestphp.com/">Tempest Framework</a><span class="right">2024.11 - Present</span>
 
-- **Description**: The Tempest Framework
+- **Description**: The PHP framework that gets out of your way 🌊
 - **Role**: Contributor
-- **Contribution**: 
-  - <a href="https://github.com/tempestphp/tempest-framework/pulls?q=is%3Apr+author%3Ahungthai1401+">View all</a>
+- **Contribution**: <a href="https://github.com/tempestphp/tempest-framework/pulls?q=is%3Apr+author%3Ahungthai1401+">View all</a>
 
-### <a href="https://github.com/laravel/framework">Laravel Framework</a><span class="right">2023.06 - Present</span>
+### <a href="https://laravel.com/">Laravel Framework</a><span class="right">2023.06 - Present</span>
 
-- **Description**: The Laravel Framework
+- **Description**: The PHP Framework for Web Artisans
 - **Role**: Contributor
-- **Contribution**: 
-  - <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Ahungthai1401+">View all</a>
+- **Contribution**: <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Ahungthai1401+">View all</a>
 
 ---
 
