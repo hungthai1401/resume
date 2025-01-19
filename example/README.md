@@ -39,12 +39,13 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ---
 
-### Voucher Module<span class="right">2024.05 - Present</span>
+### Voucher Integration System<span class="right">2024.05 - Present</span>
 
 - **Description**: Developed an internal system to integrate third-party voucher services, enabling seamless application and redemption of vouchers within the company's ecosystem.
 - **Roles**: **Senior Software Engineer (Team Leader)**
 - **Technologies**
-  - **Backend**: PHP 8.3 (Laravel 10.x)
+  - **Backend**: PHP 8.3 (Laravel 10.x), RoadRunner
+  - **Communication**: gRPC
   - **Database**: MariaDB, Redis
   - **Containerization & Orchestration**: Docker, Kubernetes, Rancher
   - **CI/CD**: Jenkins, ArgoCD, Helm
@@ -68,6 +69,32 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
   - **DevOps Contributions**:
     - Implemented CI/CD Pipelines: Designed and deployed a CI/CD pipeline for the team using Jenkins, automating the processes of building, testing, and deploying code.
     - Conducted training sessions to help team members understand and effectively use the CI/CD pipeline, improving collaboration and productivity.
+    - Set up system monitoring and logging solutions, including alert management systems for proactive issue detection.
+    - Monitor system performance and availability, trace logs to identify and resolve issues.
+  - **Collaboration**:
+    - Worked closely with cross-functional teams to ensure smooth integration of backend, frontend, and infrastructure components.
+
+---
+
+### Promotion Management System<span class="right">2023.05 - 2023.11</span>
+
+- **Description**: Developed a promotion management system that allows the creation and configuration of various promotion programs, defining applicable conditions and discount rules. The system enables the dynamic setup of promotions, including the application of discount percentages, fixed amounts, and eligibility criteria, to enhance customer engagement and increase sales.
+- **Roles**: **Senior Software Enginee**
+- **Technologies**
+  - **Backend**: PHP 8.3 (Laravel 10.x)
+  - **Frontend**: VueJS
+  - **Database**: MariaDB, Redis
+  - **Version Control**: Gitlab
+- **Team size**: Worked in a cross-functional team of 3 members, including software engineers, business analysts, and QA testers, ...
+- **Responsibilities**:
+  - **Software Development**:
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Designed and implemented database schema and API endpoints for promotion management.
+    - Coordinated with third-party providers to align integration requirements and ensure smooth interoperability.
+    - Integrate with GGG's ecosystem and third-party services.
+    - Write clean, maintainable code and create unit tests for new features.
+    - Optimized system performance and scalability.
+  - **DevOps Contributions**:
     - Set up system monitoring and logging solutions, including alert management systems for proactive issue detection.
     - Monitor system performance and availability, trace logs to identify and resolve issues.
   - **Collaboration**:
@@ -127,7 +154,7 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
     - Designed and implemented the API gateway, ensuring secure and efficient communication between services.
     - Implemented and enforced coding standards and best practices, ensuring consistent code quality and reducing technical debt.
     - Mentored junior developers, providing guidance on best practices, code reviews, and technical challenges.
-    - Design and implement UI kit for the frontend team.
+    - Designed and implement UI kit for the frontend team.
     - Designed and implemented the base structure for both frontend and backend, ensuring a scalable and maintainable architecture.
   - **Software Development**:
     - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
