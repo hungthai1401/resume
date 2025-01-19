@@ -143,9 +143,9 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ---
 
-### <a href="https://flyingchalks.com">Flyingchalks</a><span class="right">2021.08 - Present</span>
+### <a href="https://flyingchalks.com">Study abroad platform</a><span class="right">2021.08 - Present</span>
 
-- **Description**: Developed a platform for exchange and international students worldwide
+- **Description**: Developed a comprehensive study abroad platform that assists students in selecting and applying to educational institutions worldwide.
 - **Role**: **Software Engineer**
 - **Technologies**：
   - **Backend**: PHP 7.4 (Laravel 5.1)
@@ -159,9 +159,9 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 ---
 
-### Vaccine reminder<span class="right">2021.04 - 2021.07</span>
+### Vaccine Management System<span class="right">2021.04 - 2021.07</span>
 
-- **Description**: Developed a system for managing vaccines, injections and send notifications to user for reminding injection schedule
+- **Description**: Developed a system for managing vaccine records and schedules, providing users with personalized reminders for upcoming vaccinations to ensure timely and efficient healthcare.
 - **Role**: **Software Engineer**
 - **Technologies**:
   - **Backend**: PHP 7.4 (Laravel 8.x)
@@ -553,11 +553,15 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 
 - **PHP**: Advanced - Extensive experience with Laravel framework, proficient in building backend systems and APIs.
 - **JavaScript (Vue.js)**: Advanced - Strong skills in creating interactive, responsive frontend applications using Vue.js.
+- **Golang**: Intermediate - Proficient in building CLI tools to support project workflows and developing simple, efficient APIs.
+- **Flutter**: Intermediate - Experience in building cross-platform mobile applications with Flutter for Android and iOS.
 - **Database (MySQL)**: Intermediate - Well-versed in designing and optimizing relational databases, handling complex queries and data models.
-- **Docker/Kubernetes**: Intermediate - Proficient in containerizing applications and managing deployments with Kubernetes.
-- **CI/CD Pipelines**: Intermediate - Experienced in designing and implementing CI/CD pipelines using Jenkins to automate testing, building, and deployment processes.
 - **Testing Integration**: Intermediate - Integrated unit, integration, and end-to-end tests into CI/CD pipelines to ensure high-quality code with every release.
 - **Version Control**: Advanced - Strong command of Git for version control, branching, and merging workflows to manage project code efficiently.
+- **DevOps**:
+  - Proficient in containerizing applications and managing deployments with Kubernetes.
+  - Proficient in setting up CI/CD pipelines, monitoring system performance, and managing deployments.
+- **Monitoring & Logging**: Intermediate - Experience with monitoring tools such as ELK stack for system performance and issue detection.
 - **English**:
   - **Reading & Writing**: Proficient in reading books and technical documentation in English, as well as writing technical content and reports.
   - **Listening & Speaking**:
