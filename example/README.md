@@ -59,6 +59,7 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
     - Delegated tasks effectively based on team members' strengths and skill sets, while ensuring balanced workloads and timely delivery.
     - Conducted regular code reviews to maintain coding standards, improve code quality, and provide constructive feedback to team members.
     - Assisted team members in resolving technical challenges and provided guidance on complex tasks.
+    - Involved in the recruitment process, including interviewing candidates and assessing technical skills.
   - **Software Development**:
     - Designed and implemented APIs to communicate with third-party voucher providers for validation and redemption.
     - Designed a user-friendly interface for internal teams to monitor voucher activity and resolve issues.
@@ -119,6 +120,7 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
     - Delegated tasks effectively based on team members' strengths and skill sets, while ensuring balanced workloads and timely delivery.
     - Conducted regular code reviews to maintain coding standards, improve code quality, and provide constructive feedback to team members.
     - Assisted team members in resolving technical challenges and provided guidance on complex tasks.
+    - Involved in the recruitment process, including interviewing candidates and assessing technical skills.
   - **Software Development**:
     - Designed and implement recommendation features for products and merchants.
     - Designed and implement promotion services.
@@ -149,6 +151,11 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
   - **Others**: Google Firebase
 - **Team size**: Worked in a cross-functional team of 18 members, including software engineers, business analysts, and QA testers, ...
 - Responsibilities:
+  - **Team Leader**
+    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
+    - Translated business needs into technical specifications and actionable tasks for the development team.
+    - Conducted regular code reviews to maintain coding standards, improve code quality, and provide constructive feedback to team members.
+    - Involved in the recruitment process, including interviewing candidates and assessing technical skills.
   - **Software Architecture**:
     - Designed the micro service architecture, ensuring seamless integration with external services and high availability.
     - Designed and implemented the API gateway, ensuring secure and efficient communication between services.
@@ -157,8 +164,6 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
     - Designed and implement UI kit for the frontend team.
     - Designed and implemented the base structure for both frontend and backend, ensuring a scalable and maintainable architecture.
   - **Software Development**:
-    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
-    - Translated business needs into technical specifications and actionable tasks for the development team.
     - Integrate with FPT's ecosystem and third-party services.
     - Write clean, maintainable code and create unit tests for new features.
     - Optimized system performance and scalability.
@@ -215,9 +220,12 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
   - **CI/CD**: Jenkins
 - **Team size**: Worked in a cross-functional team of 5 members, including software engineers, business analysts, and QA testers, ...
 - **Responsibilities**:
-  - **Software Development**:
+  - **Team Leader**
     - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
     - Translated business needs into technical specifications and actionable tasks for the development team.
+    - Conducted regular code reviews to maintain coding standards, improve code quality, and provide constructive feedback to team members.
+    - Involved in the recruitment process, including interviewing candidates and assessing technical skills.
+  - **Software Development**:
     - Integrate with third-party services.
     - Write clean, maintainable code and create unit tests for new features.
     - Optimized system performance and scalability.
@@ -241,9 +249,12 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
   - **Caching**: Varnish
 - **Team size**: Worked in a cross-functional team of 8 members, including software engineers, business analysts, and QA testers, ...
 - **Responsibilities**:
-  - **Software Development**:
+  - **Team Leader**
     - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
     - Translated business needs into technical specifications and actionable tasks for the development team.
+    - Conducted regular code reviews to maintain coding standards, improve code quality, and provide constructive feedback to team members.
+    - Involved in the recruitment process, including interviewing candidates and assessing technical skills.
+  - **Software Development**:
     - Integrate with third-party services.
     - Write clean, maintainable code and create unit tests for new features.
     - Optimized system performance and scalability.
@@ -608,5 +619,5 @@ Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 
 - **Taking notes**: Keep detailed notes on new technologies, coding techniques, and best practices to refer back to and share with others.
 - **Reading books**: Enjoy reading books on personal development, technology, and business to gain new knowledge and insights.
 - **Reading technical blogs**: Stay updated with the latest trends, tools, and techniques in software development by reading technical blogs and articles such as Medium, Dev.to, and Substack.
-- **Reading movies**: Relax by watching movies and TV series to unwind and enjoy different genres and stories and improve English listening skills.
+- **Watching movies**: Relax by watching movies and TV series to unwind and enjoy different genres and stories and improve English listening skills.
 - **Listening to podcasts**: Stay informed on various topics, including technology, business, and personal development, through podcasts.
