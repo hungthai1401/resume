@@ -11,8 +11,7 @@
 
 ## EDUCATION
 
-Full-time trainee PHP web developer at TechMaster Vietnam Ltd <span class="right">2016.09 - 2017.02</span><br>
-Engineer Electronics And Telecommunications at HUST <span class="right">2010.10 - 2015.08</span>
+**Engineer Electronics And Telecommunications** at **HUST** <span class="right">2010.10 - 2015.08</span>
 
 ## WORK EXPERIENCE
 
