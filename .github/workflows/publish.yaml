@@ -38,5 +38,13 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: 'Thai Nguyen Hung'
+          user_email: 'hungthai1401.it@gmail.com'
           publish_dir: ./example/dist
-          cname: hungthai.is-a.dev
+
+      - name: Trigger submodule update
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: hungthai1401/hungthai1401.github.io
+          event-type: resume_update
