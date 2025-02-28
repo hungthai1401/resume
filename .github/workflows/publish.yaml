@@ -41,3 +41,10 @@ jobs:
           user_name: 'Thai Nguyen Hung'
           user_email: 'hungthai1401.it@gmail.com'
           publish_dir: ./example/dist
+
+      - name: Trigger submodule update
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PAT }}
+          repository: hungthai1401/hungthai1401.github.io
+          event-type: resume_updated
