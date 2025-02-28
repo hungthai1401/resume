@@ -45,6 +45,6 @@ jobs:
       - name: Trigger submodule update
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
           repository: hungthai1401/hungthai1401.github.io
           event-type: resume_update
