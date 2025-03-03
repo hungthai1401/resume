@@ -313,7 +313,7 @@
   - **Frontend**: HTML, Bootstrap, JQuery
   - **Database**: MySQL 5.7, Redis
   - **Containerization & Orchestration**: Docker, Vagrant
-  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
+  - **Cloud Services**: AWS CloudFront, AWS EC2, AWS s3
 - **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
 - **Responsibilities**:
   - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
@@ -331,7 +331,7 @@
   - **Frontend**: HTML, Bootstrap, JQuery
   - **Database**: MySQL 5.7.0, Redis
   - **Containerization & Orchestration**: Vagrant
-  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
+  - **Cloud Services**: AWS CloudFront, AWS EC2, AWS s3
 - **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
 - **Responsibilities**:
   - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
@@ -343,24 +343,24 @@
 ### <a href="https://github.com/tempestphp/tempest-framework/pulls?q=is%3Apr+author%3Ahungthai1401+">Tempest Framework</a><span class="right">2024.11 - Present</span>
 
 - **Description**: The PHP framework that gets out of your way 🌊
-- **Role**: Contributor
+- **Role**: **Contributor**
 
 ### <a href="https://github.com/pestphp/pest/pulls?q=is%3Apr%20author%3Ahungthai1401+">Pest</a><span class="right">2023.08 - Present</span>
 
 - **Description**: An elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
-- **Role**: Contributor
+- **Role**: **Contributor**
 
 ### <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Ahungthai1401+">Laravel Framework</a><span class="right">2023.06 - Present</span>
 
 - **Description**: The PHP Framework for Web Artisans
-- **Role**: Contributor
+- **Role**: **Contributor**
 
 ---
 
 ### <a href="https://github.com/tpetry/laravel-mysql-explain/pulls?q=is%3Apr%20author%3Ahungthai1401+">Laravel MySQL Explains For Humans</a><span class="right">2023.07</span>
 
 - **Description**: Get MySQL EXPLAIN plans that are understandable for humans
-- **Role**: Contributor
+- **Role**: **Contributor**
 - **Contribution**:
   - <a href="https://github.com/tpetry/laravel-mysql-explain/pull/6">DateTime binding</a>
 
@@ -369,42 +369,42 @@
 ### <a href="https://github.com/bradietilley/laravel-rules/pulls?q=is%3Apr%20author%3Ahungthai1401+">Laravel Rules</a><span class="right">2023.06</span>
 
 - **Description**: Object Oriented Rules for Laravel
-- **Role**: Contributor
+- **Role**: **Contributor**
 
 ---
 
 ### <a href="https://github.com/php-strictus/strictus/pulls?q=is%3Apr%20author%3Ahungthai1401+">Strictus</a><span class="right">2023.06</span>
 
 - **Description**: Strict Typing on inline variables for PHP
-- **Role**: Contributor
+- **Role**: **Contributor**
 
 ---
 
 ### <a href="https://github.com/hungthai1401/grumphp-pint-task">GrumPHP Laravel Pint task</a><span class="right">2022.11</span>
 
 - **Description**: Extend <a href="https://github.com/phpro/grumphp">GrumPHP</a> with a task that runs <a href="https://laravel.com/docs/9.x/pint">Laravel Pint</a> for Laravel projects
-- **Role**: Owner
+- **Role**: **Owner**
 
 ---
 
 ### <a href="https://github.com/Eveio/dto/pulls?q=is%3Apr%20author%3Ahungthai1401+">DTO</a><span class="right">2021.04</span>
 
 - **Description**: A simplistic, flexible Data Transfer Object library written in PHP
-- **Role**: Contributor
+- **Role**: **Contributor**
 
 ---
 
 ### <a href="https://github.com/hungthai1401/laravel-application-version">Laravel Application Version</a><span class="right">2020.01</span>
 
 - **Description**: Allows you to find application version in Google Play store by package name or Apple App Store by bundle id
-- **Role**: Owner
+- **Role**: **Owner**
 
 ---
 
 ### <a href="https://github.com/nWidart/laravel-modules/pulls?q=is%3Apr%20author%3Ahungthai1401+">Laravel Modules</a><span class="right">2019.11</span>
 
 - **Description**: Creating to manage the large Laravel app using modules
-- **Role**: Contributor
+- **Role**: **Contributor**
 
 ---
 
