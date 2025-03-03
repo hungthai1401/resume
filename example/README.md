@@ -19,7 +19,6 @@
 **Senior Software Engineer (Tech Lead in transition)** at **FPT Telecom** <span class="right">2022.03 - 2023.03</span><br>
 **Senior Software Engineer** at **VTI Joint Stock Company** <span class="right">2020.04 - 2022.02</span><br>
 **Software Engineer** at **Viet Nhat General Joint Stock Company (VINICORP)**<span class="right">2017.02 - 2020.03</span><br>
-**Technical support** at **RED SUN SYNTHESIS PTE LTD** <span class="right">2016.02 - 2016.08</span><br>
 
 ## PROJECTS
 
