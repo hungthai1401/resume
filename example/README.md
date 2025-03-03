@@ -173,40 +173,6 @@
 
 ---
 
-### <a href="https://flyingchalks.com">Study abroad platform</a><span class="right">2021.08 - Present</span>
-
-- **Description**: Developed a comprehensive study abroad platform that assists students in selecting and applying to educational institutions worldwide.
-- **Role**: **Software Engineer**
-- **Technologies**：
-  - **Backend**: PHP 7.4 (Laravel 5.1)
-  - **Database**: MySQL 8.0, Redis
-  - **Frontend**: Bootstrap, VueJS, jQuery
-  - **Version Control**: Gitlab
-- **Responsibilities**:
-  - Implement new features, bug fixes and maintain website
-  - Responsible for deploying and maintaining applications in the production environment
-  - Monitored system performance, trace logs to identify and resolve issues
-
----
-
-### Vaccine Management System<span class="right">2021.04 - 2021.07</span>
-
-- **Description**: Developed a system for managing vaccine records and schedules, providing users with personalized reminders for upcoming vaccinations to ensure timely and efficient healthcare.
-- **Role**: **Software Engineer**
-- **Technologies**:
-  - **Backend**: PHP 7.4 (Laravel 8.x)
-  - **Database**: MySQL 8.0, Redis
-  - **Frontend**: Flutter
-  - **Others**: Google Firebase, AWS EC2
-- **Responsibilities**:
-  - Designed and implemented new features, bug fixes and maintain website
-  - Write clean, maintainable code and create unit tests for new features.
-  - Implement new features, bug fixes and maintain website
-  - Responsible for deploying and maintaining applications in the production environment
-  - Monitored system performance, trace logs to identify and resolve issues
-
----
-
 ### Recruitment recommendation platform<span class="right">2020.09 - 2022.02</span>
 
 - **Description**: Developed a platform provides personalized recommendations for highly-rated companies based on user preferences and qualifications also provide recommendations candidates for companies.
@@ -301,25 +267,6 @@
 
 ---
 
-### Internal CRM Management System<span class="right">2019.11 - 2020.03</span>
-
-- **Description**: Developed an internal CRM system to manage company resources, including departments, employees, and devices, ensuring efficient resource allocation and streamlined operations.
-- **Role**: **Software Engineer**
-- **Technologies**
-  - **Backend**: PHP 7.4 (Laravel 6.x)
-  - **Frontend**: VueJS
-  - **Database**: MySQL 8.0, Redis
-- **Team size**: Worked in a cross-functional team of 3 members, including software engineers, business analysts, and QA testers, ...
-- **Responsibilities**:
-  - **Software Development**:
-    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
-    - Integrate with third-party services.
-    - Write clean, maintainable code and create unit tests for new features.
-  - **DevOps Contributions**:
-    - Monitor system performance and availability, trace logs to identify and resolve issues.
-
----
-
 ### Webview Game - Stamp Collection by Location<span class="right">2019.11 - 2020.03</span>
 
 - **Description**: Developed a location-based webview game where users collect virtual stamps by visiting specific physical locations, encouraging exploration and engagement.
@@ -357,27 +304,6 @@
 
 ---
 
-### Company Resource Management<span class="right">2019.03 - 2019.12</span>
-
-- **Description**: Building some features such as dynamic form, workflow, invoice, attendance, leave, marketing, ...
-- **Role**: **Software Engineer**
-- **Technologies**
-  - **Backend**: PHP 7.4 (Laravel 5.7)
-  - **Frontend**: VueJS
-  - **Database**: MySQL 8.0, Redis
-  - **Containerization & Orchestration**: Docker, Vagrant
-  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
-- **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
-- **Responsibilities**:
-  - **Software Development**:
-    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
-    - Integrate with third-party services.
-    - Write clean, maintainable code and create unit tests for new features.
-  - **DevOps Contributions**:
-    - Monitor system performance and availability, trace logs to identify and resolve issues.
-
----
-
 ### Dynamic Content Builder System<span class="right">2018.12 - 2019.12</span>
 
 - **Description**: Developed a system for creating and managing dynamic contents (file, weather, link, map, ...) to show in application with webview
@@ -387,42 +313,6 @@
   - **Frontend**: HTML, Bootstrap, JQuery
   - **Database**: MySQL 5.7, Redis
   - **Containerization & Orchestration**: Docker, Vagrant
-  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
-- **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
-- **Responsibilities**:
-  - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
-  - Integrate with third-party services.
-  - Write clean, maintainable code and create unit tests for new features.
-
----
-
-### Elderly Management System<span class="right">2018.04 - 2018.12</span>
-
-- **Description**: Developed a system to manage information and services for elderly individuals, focusing on activity tracking, and personalized care plans.
-- **Role**: **Software Engineer**
-- **Technologies**
-  - **Backend**: PHP 7.4 (Laravel 5.7)
-  - **Frontend**: HTML, Bootstrap, JQuery
-  - **Database**: MySQL 5.7, Redis
-  - **Containerization & Orchestration**: Vagrant
-  - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
-- **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
-- **Responsibilities**:
-  - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
-  - Integrate with third-party services.
-  - Write clean, maintainable code and create unit tests for new features.
-
----
-
-### Translation Management System<span class="right">2018.02 - 2018.08</span>
-
-- **Description**: Built a system for managing text translations, where users create translation requests, and submissions are reviewed and approved through workflows.
-- **Role**: **Software Engineer**
-- **Technologies**
-  - **Backend**: PHP 7.4 (Laravel 5.7)
-  - **Frontend**: HTML, Bootstrap, JQuery
-  - **Database**: MySQL 5.7, Redis
-  - **Containerization & Orchestration**: Vagrant
   - **Cloud Services**: AWS Cloudfont, AWS EC2, AWS s3
 - **Team size**: Worked in a cross-functional team of 7 members, including software engineers, business analysts, and QA testers, ...
 - **Responsibilities**:
@@ -450,21 +340,24 @@
 
 ## OPEN-SOURCES AND CONTRIBUTOR
 
-### <a href="https://tempestphp.com/">Tempest Framework</a><span class="right">2024.11 - Present</span>
+### <a href="https://github.com/tempestphp/tempest-framework/pulls?q=is%3Apr+author%3Ahungthai1401+">Tempest Framework</a><span class="right">2024.11 - Present</span>
 
 - **Description**: The PHP framework that gets out of your way 🌊
 - **Role**: Contributor
-- **Contribution**: <a href="https://github.com/tempestphp/tempest-framework/pulls?q=is%3Apr+author%3Ahungthai1401+">View all</a>
 
-### <a href="https://laravel.com/">Laravel Framework</a><span class="right">2023.06 - Present</span>
+### <a href="https://github.com/pestphp/pest/pulls?q=is%3Apr%20author%3Ahungthai1401+">Pest</a><span class="right">2023.08 - Present</span>
+
+- **Description**: An elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- **Role**: Contributor
+
+### <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Ahungthai1401+">Laravel Framework</a><span class="right">2023.06 - Present</span>
 
 - **Description**: The PHP Framework for Web Artisans
 - **Role**: Contributor
-- **Contribution**: <a href="https://github.com/laravel/framework/pulls?q=is%3Apr+author%3Ahungthai1401+">View all</a>
 
 ---
 
-### <a href="https://github.com/tpetry/laravel-mysql-explain">Laravel MySQL Explains For Humans</a><span class="right">2023.07</span>
+### <a href="https://github.com/tpetry/laravel-mysql-explain/pulls?q=is%3Apr%20author%3Ahungthai1401+">Laravel MySQL Explains For Humans</a><span class="right">2023.07</span>
 
 - **Description**: Get MySQL EXPLAIN plans that are understandable for humans
 - **Role**: Contributor
@@ -473,42 +366,17 @@
 
 ---
 
-### <a href="https://github.com/bradietilley/laravel-rules">Laravel Rules</a><span class="right">2023.06</span>
+### <a href="https://github.com/bradietilley/laravel-rules/pulls?q=is%3Apr%20author%3Ahungthai1401+">Laravel Rules</a><span class="right">2023.06</span>
 
 - **Description**: Object Oriented Rules for Laravel
 - **Role**: Contributor
-- **Contribution**:
-  - <a href="https://github.com/bradietilley/laravel-rules/pull/4">Reusable rule</a>
-  - <a href="https://github.com/bradietilley/laravel-rules/pull/6">`Macroable` usage</a>
 
 ---
 
-### <a href="https://github.com/php-strictus/strictus">Strictus</a><span class="right">2023.06</span>
+### <a href="https://github.com/php-strictus/strictus/pulls?q=is%3Apr%20author%3Ahungthai1401+">Strictus</a><span class="right">2023.06</span>
 
 - **Description**: Strict Typing on inline variables for PHP
 - **Role**: Contributor
-- **Contribution**:
-  - <a href="https://github.com/php-strictus/strictus/pull/12">Enum support</a>
-  - <a href="https://github.com/php-strictus/strictus/pull/15">Immutable</a>
-  - <a href="https://github.com/php-strictus/strictus/pull/20">Union types</a>
-
----
-
-### <a href="https://github.com/tpetry/laravel-query-expressions">Laravel Query Expressions to replace DB::raw() calls</a><span class="right">2023.04</span>
-
-- **Description**: Laravel Query Expressions to replace DB::raw() calls
-- **Role**: Contributor
-- **Contribution**:
-  - <a href="https://github.com/tpetry/laravel-query-expressions/pull/3">Emulate MySQL `FIND_IN_SET`</a>
-
----
-
-### <a href="https://github.com/square/laravel-hyrule">Laravel Hyrule</a><span class="right">2023.04</span>
-
-- **Description**: Object-oriented, composable, fluent API for writing validations in Laravel
-- **Role**: Contributor
-- **Contribution**:
-  - <a href="https://github.com/square/laravel-hyrule/pull/16">Laravel 10 Support</a>
 
 ---
 
@@ -519,35 +387,10 @@
 
 ---
 
-### <a href="https://github.com/Eveio/dto">DTO</a><span class="right">2021.04</span>
+### <a href="https://github.com/Eveio/dto/pulls?q=is%3Apr%20author%3Ahungthai1401+">DTO</a><span class="right">2021.04</span>
 
 - **Description**: A simplistic, flexible Data Transfer Object library written in PHP
 - **Role**: Contributor
-- **Contribution**:
-  - <a href="https://github.com/Eveio/dto/pull/5">Allow directly accessing property</a>
-
----
-
-### <a href="https://github.com/hungthai1401/laravel-hmvc">Laravel HMVC</a><span class="right">2020.05 - 2020.07</span>
-
-- **Description**: Similar to Laravel Modules, creating to manage the large Laravel app using modules
-- **Role**: Owner
-
----
-
-### <a href="https://github.com/hungthai1401/laravel-pre-commit">Laravel Pre Commit</a><span class="right">2020.05</span>
-
-- **Description**: Allows you to check coding standard & code syntax with Git pre-commit hook
-- **Role**: Owner
-
----
-
-### <a href="https://github.com/dobromir-hristov/vuelidate-error-extractor">Vuelidate Error Extractor</a><span class="right">2020.03</span>
-
-- **Description**: Making error message display from <a href="https://vuelidate.js.org/">Vuelidate</a> a breeze
-- **Role**: Contributor
-- **Contribution**:
-  - <a href="https://github.com/dobromir-hristov/vuelidate-error-extractor/pull/37">Add usage with Ant Design Vue</a>
 
 ---
 
@@ -558,28 +401,10 @@
 
 ---
 
-### <a href="https://github.com/nWidart/laravel-modules">Laravel Modules</a><span class="right">2019.11</span>
+### <a href="https://github.com/nWidart/laravel-modules/pulls?q=is%3Apr%20author%3Ahungthai1401+">Laravel Modules</a><span class="right">2019.11</span>
 
 - **Description**: Creating to manage the large Laravel app using modules
 - **Role**: Contributor
-- **Contribution**:
-  - <a href="https://github.com/nWidart/laravel-modules/pull/871">Replace controller namespace in provider stub</a>
-  - <a href="https://github.com/nWidart/laravel-modules/pull/1662">New rule stub</a>
-  - <a href="https://github.com/nWidart/laravel-modules/pull/1664">Implicit rule</a>
-
----
-
-### <a href="https://github.com/hungthai1401/laravel-sql-logger">Laravel SQL Logger</a><span class="right">2019.08 - 2019.11</span>
-
-- **Description**: Allows you to log SQL queries (and slow SQL queries) to log file in Laravel framework
-- **Role**: Owner
-
----
-
-### <a href="https://github.com/hungthai1401/laravel-cors">Laravel CORS</a><span class="right">2019.09</span>
-
-- **Description**: Allows you to send Cross-Origin Resource Sharing headers with Laravel middleware
-- **Role**: Owner
 
 ---
 
