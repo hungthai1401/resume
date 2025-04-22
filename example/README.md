@@ -216,25 +216,6 @@ Over 8 years of experience in designing and developing scalable web applications
 
 ---
 
-### Facial Recognition Attendance Management System<span class="right">2019.11 - 2020.03</span>
-
-- **Description**: Developed a system for managing employee attendance using facial recognition technology, enabling accurate and contactless time tracking.
-- **Role**: **Software Engineer**
-- **Technologies**
-  - **Backend**: PHP 7.4 (Laravel 6.x)
-  - **Frontend**: Flutter
-  - **Database**: MySQL 8.0, Redis
-- **Team size**: Worked in a cross-functional team of 3 members, including software engineers, business analysts, and QA testers, ...
-- **Responsibilities**:
-  - **Software Development**:
-    - Collaborated with Business Analysts (BAs) to gather and analyze business requirements, ensuring alignment with technical solutions.
-    - Integrate with third-party services.
-    - Write clean, maintainable code and create unit tests for new features.
-  - **DevOps Contributions**:
-    - Monitor system performance and availability, trace logs to identify and resolve issues.
-
----
-
 ### Webview Game - Stamp Collection by Location<span class="right">2019.11 - 2020.03</span>
 
 - **Description**: Developed a location-based webview game where users collect virtual stamps by visiting specific physical locations, encouraging exploration and engagement.
@@ -308,6 +289,16 @@ Over 8 years of experience in designing and developing scalable web applications
 
 ## OPEN-SOURCES AND CONTRIBUTOR
 
+### <a href="https://github.com/hungthai1401/bruno-mcp">Bruno MCP Server</a><span class="right">2025.04</span>
+
+- **Description**: An MCP server allows LLMs to execute API tests using Bruno and get detailed results through a standardized interface
+- **Role**: **Owner**
+
+### <a href="https://github.com/jasonjmcghee/claude-debugs-for-you/pull/18">Claude Debugs For You</a><span class="right">2025.03</span>
+
+- **Description**: A tool that helps you debug your code by using Claude AI.
+- **Role**: **Contributor**
+
 ### <a href="https://github.com/tempestphp/tempest-framework/pulls?q=is%3Apr+author%3Ahungthai1401+">Tempest Framework</a><span class="right">2024.11 - Present</span>
 
 - **Description**: The PHP framework that gets out of your way 🌊
@@ -359,13 +350,6 @@ Over 8 years of experience in designing and developing scalable web applications
 
 - **Description**: A simplistic, flexible Data Transfer Object library written in PHP
 - **Role**: **Contributor**
-
----
-
-### <a href="https://github.com/hungthai1401/laravel-application-version">Laravel Application Version</a><span class="right">2020.01</span>
-
-- **Description**: Allows you to find application version in Google Play store by package name or Apple App Store by bundle id
-- **Role**: **Owner**
 
 ---
 
